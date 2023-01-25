@@ -1,0 +1,94 @@
+{
+    "civilizaciones" : [
+        {
+            "id": "1",
+            "nombre": "Aztecas",
+            "Especialidad": "Infantería y monjes",
+            "Unidad_Unica": "Guerrero Jaguar",
+            "Maravilla": "Templo Mayor",
+            "Bonificaciones_de_equipo": "Reliquias generan +33% oro",
+            "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcUtk0Njz51KdzjX_HVoTCpdVoTK3LM-Aiw&usqp=CAU"
+        },
+        {
+            "id": "2",
+            "nombre": "Bengalíes",
+            "Especialidad": "Elefantes y Naval",
+            "Unidad_Unica": "Ratha",
+            "Maravilla": "Somapura Mahavihara",
+            "Bonificaciones_de_equipo": "Las unidades de comercio traen 10% comida además de oro",
+            "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ31wrrqwH19RfNtMSjF7cSn0EStZsbVIGQyw&usqp=CAU"
+        },
+        {
+            "id": "3",
+            "nombre": "Bereberes",
+            "Especialidad": "Camellos y barcos",
+            "Unidad_Unica": "Camello Arquero",
+            "Maravilla": "Torre Hasán",
+            "Bonificaciones_de_equipo": "Escaramuzador Zenete disponible en la Galería de tiro con arco desde la Edad de los Castillos",
+            "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn7sH6mvkUm0zDT4KQo2jggZgjjSX8hvKsBQ&usqp=CAU"
+        },
+        {
+            "id": "4",
+            "nombre": "Birmanos",
+            "Especialidad": "Monjes y Elefantes",
+            "UnidadUnica": "Arambai",
+            "Maravilla": "Pagoda de Shwezigon",
+            "Bonificaciones": "Las Reliquias son visibles desde el inicio de la partida",
+            "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpsFObw_SMZ3Zl6RgPLZTVhaogfpJuyaaX0VTZ3LzTP2S9UD4GBRrCXxvX-yJtRdW-&usqp=CAU"
+        },
+        {
+            "id": "5",
+            "nombre": "Bizantinos",
+            "Especialidad": "Defensa",
+            "Unidad_Unica": "Catafracta",
+            "Maravilla": "Hagia Sophia",
+            "Bonificaciones_de_equipo": "Monjes sanan 100% más rápido.",
+            "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVyc3wC3ubyShbibXiYRsRiXbLj4-jIWU7CA&usqp=CAU"
+        },
+        {
+            "id": "6",
+            "nombre": "Bohemios",
+            "Especialidad": "Unidades de pólvora y Monjes",
+            "Unidad_Unica": ["Carro de guerra husita","Obús"],
+            "Maravilla": "Iglesia de Nuestra Señora ante Týn",
+            "Bonificaciones_de_equipo": "Mercados trabajan un 80% más rápido",
+            "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2lhkLKIjr5dAYzS1m4AZNHnyGzxm3DpdXmiFU7mpGOMVLE52Pb7hvrgbJPvjMKwzJ&usqp=CAU"
+        },
+        {
+            "id": "7",
+            "nombre": "Borgoñones",
+            "Especialidad": "Caballería",
+            "Unidad_Unica": ["Coustillier", "Milicia Flamenca"],
+            "Maravilla": "Ayuntamiento de Bruselas",
+            "Bonificaciones_de_equipo": "Las Reliquias generan +30 alimento por minuto.",
+            "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKSZ_PvEdjzW7uJETj2C25o-EUVueAD77UzA&usqp=CAU"
+        },
+        {
+            "id": "8",
+            "nombre": "Britanos",
+            "Especialidad": "Arqueros",
+            "Unidad_Unica": "Arquero de tiro largo",
+            "Maravilla": "Catedral de Chichester",
+            "Bonificaciones_de_equipo": "Galerías de tiro con arco funcionan 20% más rápido",
+            "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK-mgvNY1X17DBXWvSStn5hQg6VWV23VvCNg&usqp=CAU"
+        },
+        {
+            "id": "9",
+            "nombre": "Búlgaros",
+            "Especialidad": "Infantería",
+            "Unidad_Unica": "Konnik",
+            "Maravilla": "Iglesia Redonda",
+            "Bonificaciones_de_equipo": "La herrería trabaja un 80% más rápido.",
+            "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ4y4paSrYeFfZbd0LOy9LAg-J2CoYlBVSuQ&usqp=CAU"
+        },
+        {
+            "id": "10",
+            "nombre": "Celtas",
+            "Especialidad": " Infantería y armas de asedio",
+            "Unidad_Unica": "Invasor de pastos",
+            "Maravilla": "Carraig Phadraig",
+            "Bonificaciones_de_equipo": "Taller de maquinaria de asedio trabaja 20% más rápido.",
+            "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMTqV9MZakXz3Q5NF99-YcxayGH4_2xUN0qQ&usqp=CAU"
+        }
+    ]
+}
