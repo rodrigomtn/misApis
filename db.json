@@ -7,7 +7,8 @@
             "unidad": "Guerrero Jaguar",
             "maravilla": "Templo Mayor",
             "Bonificaciones_de_equipo": "Reliquias generan +33% oro",
-            "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2qLeggjZMDUOg6PdzQySl5etJJH8gMRQYRw&usqp=CAU"
+            "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2qLeggjZMDUOg6PdzQySl5etJJH8gMRQYRw&usqp=CAU",
+            "expacion": "The Conquerors"
         },
         {
             "id": "2",
@@ -16,7 +17,8 @@
             "unidad": "Ratha",
             "maravilla": "Somapura Mahavihara",
             "Bonificaciones_de_equipo": "Las unidades de comercio traen 10% comida además de oro",
-            "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ31wrrqwH19RfNtMSjF7cSn0EStZsbVIGQyw&usqp=CAU"
+            "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ31wrrqwH19RfNtMSjF7cSn0EStZsbVIGQyw&usqp=CAU",
+            "expacion": "Lords of the West"
         },
         {
             "id": "3",
@@ -25,7 +27,8 @@
             "unidad": "Camello Arquero",
             "maravilla": "Torre Hasán",
             "Bonificaciones_de_equipo": "Escaramuzador Zenete disponible en la Galería de tiro con arco desde la Edad de los Castillos",
-            "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn7sH6mvkUm0zDT4KQo2jggZgjjSX8hvKsBQ&usqp=CAU"
+            "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn7sH6mvkUm0zDT4KQo2jggZgjjSX8hvKsBQ&usqp=CAU",
+            "expacion": "The African Kingdoms"
         },
         {
             "id": "4",
@@ -34,7 +37,8 @@
             "unidad": "Arambai",
             "maravilla": "Pagoda de Shwezigon",
             "Bonificaciones_de_equipo": "Las Reliquias son visibles desde el inicio de la partida",
-            "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpsFObw_SMZ3Zl6RgPLZTVhaogfpJuyaaX0VTZ3LzTP2S9UD4GBRrCXxvX-yJtRdW-&usqp=CAU"
+            "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpsFObw_SMZ3Zl6RgPLZTVhaogfpJuyaaX0VTZ3LzTP2S9UD4GBRrCXxvX-yJtRdW-&usqp=CAU",
+            "expacion": "Rise of The Rajas"
         },
         {
             "id": "5",
@@ -43,7 +47,8 @@
             "unidad": "Catafracta",
             "maravilla": "Hagia Sophia",
             "Bonificaciones_de_equipo": "Monjes sanan 100% más rápido.",
-            "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVyc3wC3ubyShbibXiYRsRiXbLj4-jIWU7CA&usqp=CAU"
+            "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVyc3wC3ubyShbibXiYRsRiXbLj4-jIWU7CA&usqp=CAU",
+            "expacion": "The Age of Kings"
         },
         {
             "id": "6",
@@ -52,7 +57,8 @@
             "unidad": ["Carro de guerra husita","Obús"],
             "maravilla": "Iglesia de Nuestra Señora ante Týn",
             "Bonificaciones_de_equipo": "Mercados trabajan un 80% más rápido",
-            "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2lhkLKIjr5dAYzS1m4AZNHnyGzxm3DpdXmiFU7mpGOMVLE52Pb7hvrgbJPvjMKwzJ&usqp=CAU"
+            "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2lhkLKIjr5dAYzS1m4AZNHnyGzxm3DpdXmiFU7mpGOMVLE52Pb7hvrgbJPvjMKwzJ&usqp=CAU",
+            "expacion": "Dawn of the Dukes"
         },
         {
             "id": "7",
@@ -61,7 +67,8 @@
             "unidad": ["Coustillier", "Milicia Flamenca"],
             "maravilla": "Ayuntamiento de Bruselas",
             "Bonificaciones_de_equipo": "Las Reliquias generan +30 alimento por minuto.",
-            "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKSZ_PvEdjzW7uJETj2C25o-EUVueAD77UzA&usqp=CAU"
+            "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKSZ_PvEdjzW7uJETj2C25o-EUVueAD77UzA&usqp=CAU",
+            "expacion": "Lords of the West"
         },
         {
             "id": "8",
@@ -70,7 +77,8 @@
             "unidad": "Arquero de tiro largo",
             "maravilla": "Catedral de Chichester",
             "Bonificaciones_de_equipo": "Galerías de tiro con arco funcionan 20% más rápido",
-            "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK-mgvNY1X17DBXWvSStn5hQg6VWV23VvCNg&usqp=CAU"
+            "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK-mgvNY1X17DBXWvSStn5hQg6VWV23VvCNg&usqp=CAU",
+            "expacion": "The Age of Kings"
         },
         {
             "id": "9",
@@ -79,7 +87,8 @@
             "unidad": "Konnik",
             "maravilla": "Iglesia Redonda",
             "Bonificaciones_de_equipo": "La herrería trabaja un 80% más rápido.",
-            "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ4y4paSrYeFfZbd0LOy9LAg-J2CoYlBVSuQ&usqp=CAU"
+            "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ4y4paSrYeFfZbd0LOy9LAg-J2CoYlBVSuQ&usqp=CAU",
+            "expacion": "Lords of the West"
         },
         {
             "id": "10",
@@ -88,7 +97,8 @@
             "unidad": "Invasor de pastos",
             "maravilla": "Carraig Phadraig",
             "Bonificaciones_de_equipo": "Taller de maquinaria de asedio trabaja 20% más rápido.",
-            "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMTqV9MZakXz3Q5NF99-YcxayGH4_2xUN0qQ&usqp=CAU"
+            "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMTqV9MZakXz3Q5NF99-YcxayGH4_2xUN0qQ&usqp=CAU",
+            "expacion": "The Age of Kings"
         }
     ]
 }
