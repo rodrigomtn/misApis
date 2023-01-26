@@ -110,5 +110,17 @@
             "expacion": "The Age of Kings",
             "Anio": "2006"
         }
+    ],
+    "Usuarios":[
+        {
+            "id": "1",
+            "correo": "20200753@uthh.edu.mx",
+            "contrasena": "123456"
+        },
+        {
+            "id": "1",
+            "correo": "20200737@uthh.edu.mx",
+            "contrasena": "987654"
+        }
     ]
 }
