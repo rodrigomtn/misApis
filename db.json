@@ -14,7 +14,7 @@
             "nombre": "Bengalíes",
             "Especialidad": "Elefantes y Naval",
             "unidad": "Ratha",
-            "Maravilla": "Somapura Mahavihara",
+            "maravilla": "Somapura Mahavihara",
             "Bonificaciones_de_equipo": "Las unidades de comercio traen 10% comida además de oro",
             "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ31wrrqwH19RfNtMSjF7cSn0EStZsbVIGQyw&usqp=CAU"
         },
@@ -23,7 +23,7 @@
             "nombre": "Bereberes",
             "Especialidad": "Camellos y barcos",
             "unidad": "Camello Arquero",
-            "Maravilla": "Torre Hasán",
+            "maravilla": "Torre Hasán",
             "Bonificaciones_de_equipo": "Escaramuzador Zenete disponible en la Galería de tiro con arco desde la Edad de los Castillos",
             "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn7sH6mvkUm0zDT4KQo2jggZgjjSX8hvKsBQ&usqp=CAU"
         },
@@ -32,7 +32,7 @@
             "nombre": "Birmanos",
             "Especialidad": "Monjes y Elefantes",
             "unidad": "Arambai",
-            "Maravilla": "Pagoda de Shwezigon",
+            "maravilla": "Pagoda de Shwezigon",
             "Bonificaciones_de_equipo": "Las Reliquias son visibles desde el inicio de la partida",
             "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpsFObw_SMZ3Zl6RgPLZTVhaogfpJuyaaX0VTZ3LzTP2S9UD4GBRrCXxvX-yJtRdW-&usqp=CAU"
         },
@@ -41,7 +41,7 @@
             "nombre": "Bizantinos",
             "Especialidad": "Defensa",
             "unidad": "Catafracta",
-            "Maravilla": "Hagia Sophia",
+            "maravilla": "Hagia Sophia",
             "Bonificaciones_de_equipo": "Monjes sanan 100% más rápido.",
             "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVyc3wC3ubyShbibXiYRsRiXbLj4-jIWU7CA&usqp=CAU"
         },
@@ -50,7 +50,7 @@
             "nombre": "Bohemios",
             "Especialidad": "Unidades de pólvora y Monjes",
             "unidad": ["Carro de guerra husita","Obús"],
-            "Maravilla": "Iglesia de Nuestra Señora ante Týn",
+            "maravilla": "Iglesia de Nuestra Señora ante Týn",
             "Bonificaciones_de_equipo": "Mercados trabajan un 80% más rápido",
             "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2lhkLKIjr5dAYzS1m4AZNHnyGzxm3DpdXmiFU7mpGOMVLE52Pb7hvrgbJPvjMKwzJ&usqp=CAU"
         },
@@ -59,7 +59,7 @@
             "nombre": "Borgoñones",
             "Especialidad": "Caballería",
             "unidad": ["Coustillier", "Milicia Flamenca"],
-            "Maravilla": "Ayuntamiento de Bruselas",
+            "maravilla": "Ayuntamiento de Bruselas",
             "Bonificaciones_de_equipo": "Las Reliquias generan +30 alimento por minuto.",
             "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKSZ_PvEdjzW7uJETj2C25o-EUVueAD77UzA&usqp=CAU"
         },
@@ -68,7 +68,7 @@
             "nombre": "Britanos",
             "Especialidad": "Arqueros",
             "unidad": "Arquero de tiro largo",
-            "Maravilla": "Catedral de Chichester",
+            "maravilla": "Catedral de Chichester",
             "Bonificaciones_de_equipo": "Galerías de tiro con arco funcionan 20% más rápido",
             "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK-mgvNY1X17DBXWvSStn5hQg6VWV23VvCNg&usqp=CAU"
         },
@@ -77,7 +77,7 @@
             "nombre": "Búlgaros",
             "Especialidad": "Infantería",
             "unidad": "Konnik",
-            "Maravilla": "Iglesia Redonda",
+            "maravilla": "Iglesia Redonda",
             "Bonificaciones_de_equipo": "La herrería trabaja un 80% más rápido.",
             "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ4y4paSrYeFfZbd0LOy9LAg-J2CoYlBVSuQ&usqp=CAU"
         },
@@ -86,7 +86,7 @@
             "nombre": "Celtas",
             "Especialidad": " Infantería y armas de asedio",
             "unidad": "Invasor de pastos",
-            "Maravilla": "Carraig Phadraig",
+            "maravilla": "Carraig Phadraig",
             "Bonificaciones_de_equipo": "Taller de maquinaria de asedio trabaja 20% más rápido.",
             "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMTqV9MZakXz3Q5NF99-YcxayGH4_2xUN0qQ&usqp=CAU"
         }
