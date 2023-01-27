@@ -10,7 +10,8 @@
             "Bonificaciones_de_equipo": "Reliquias generan +33% oro",
             "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2qLeggjZMDUOg6PdzQySl5etJJH8gMRQYRw&usqp=CAU",
             "expacion": "The Conquerors",
-            "Anio": "2001"
+            "Anio": "2001",
+            "Disponible": "Age of Empires III"
         },
         {
             "id": "2",
@@ -22,7 +23,8 @@
             "Bonificaciones_de_equipo": "Las unidades de comercio traen 10% comida además de oro",
             "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ31wrrqwH19RfNtMSjF7cSn0EStZsbVIGQyw&usqp=CAU",
             "expacion": "Lords of the West",
-            "Anio": "2006"
+            "Anio": "2006",
+            "Disponible": "Age of Empires III"
         },
         {
             "id": "3",
@@ -34,7 +36,8 @@
             "Bonificaciones_de_equipo": "Escaramuzador Zenete disponible en la Galería de tiro con arco desde la Edad de los Castillos",
             "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn7sH6mvkUm0zDT4KQo2jggZgjjSX8hvKsBQ&usqp=CAU",
             "expacion": "The African Kingdoms",
-            "Anio": "2010"
+            "Anio": "2010",
+            "Disponible": "Age of Empires III"
         },
         {
             "id": "4",
@@ -46,7 +49,8 @@
             "Bonificaciones_de_equipo": "Las Reliquias son visibles desde el inicio de la partida",
             "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpsFObw_SMZ3Zl6RgPLZTVhaogfpJuyaaX0VTZ3LzTP2S9UD4GBRrCXxvX-yJtRdW-&usqp=CAU",
             "expacion": "Rise of The Rajas",
-            "Anio": "2003"
+            "Anio": "2003",
+            "Disponible": "Age of Empires II"
         },
         {
             "id": "5",
@@ -58,7 +62,8 @@
             "Bonificaciones_de_equipo": "Monjes sanan 100% más rápido.",
             "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVyc3wC3ubyShbibXiYRsRiXbLj4-jIWU7CA&usqp=CAU",
             "expacion": "The Age of Kings",
-            "Anio": "2006"
+            "Anio": "2006",
+            "Disponible": "Age of Empires II"
         },
         {
             "id": "6",
@@ -70,7 +75,8 @@
             "Bonificaciones_de_equipo": "Mercados trabajan un 80% más rápido",
             "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2lhkLKIjr5dAYzS1m4AZNHnyGzxm3DpdXmiFU7mpGOMVLE52Pb7hvrgbJPvjMKwzJ&usqp=CAU",
             "expacion": "Dawn of the Dukes",
-            "Anio": "2014"
+            "Anio": "2014",
+            "Disponible": "Age of Empires III"
         },
         {
             "id": "7",
@@ -82,7 +88,8 @@
             "Bonificaciones_de_equipo": "Las Reliquias generan +30 alimento por minuto.",
             "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKSZ_PvEdjzW7uJETj2C25o-EUVueAD77UzA&usqp=CAU",
             "expacion": "Lords of the West",
-            "Anio": "2006"
+            "Anio": "2006",
+            "Disponible": "Age of Empires III"
         },
         {
             "id": "8",
@@ -94,7 +101,8 @@
             "Bonificaciones_de_equipo": "Galerías de tiro con arco funcionan 20% más rápido",
             "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK-mgvNY1X17DBXWvSStn5hQg6VWV23VvCNg&usqp=CAU",
             "expacion": "The Age of Kings",
-            "Anio": "2007"
+            "Anio": "2007",
+            "Disponible": "Age of Empires II"
         },
         {
             "id": "9",
@@ -106,7 +114,8 @@
             "Bonificaciones_de_equipo": "La herrería trabaja un 80% más rápido.",
             "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ4y4paSrYeFfZbd0LOy9LAg-J2CoYlBVSuQ&usqp=CAU",
             "expacion": "Lords of the West",
-            "Anio": "2007"
+            "Anio": "2007",
+            "Disponible": "Age of Empires III"
         },
         {
             "id": "10",
@@ -118,7 +127,8 @@
             "Bonificaciones_de_equipo": "Taller de maquinaria de asedio trabaja 20% más rápido.",
             "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMTqV9MZakXz3Q5NF99-YcxayGH4_2xUN0qQ&usqp=CAU",
             "expacion": "The Age of Kings",
-            "Anio": "2006"
+            "Anio": "2006",
+            "Disponible": "Age of Empires II"
         }
     ],
     "Usuarios":[
