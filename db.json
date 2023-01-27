@@ -3,6 +3,7 @@
         {
             "id": "1",
             "nombre": "Aztecas",
+            "Descripcion": "Sus unidades son de las más dañinas del juego una vez que tienes las tecnologías necesarias, aunque las capacidad defensivas de sus edificios dejan bastante que desear.",
             "Especialidad": "Infantería y monjes",
             "unidad": "Guerrero Jaguar",
             "maravilla": "Templo Mayor",
@@ -14,6 +15,7 @@
         {
             "id": "2",
             "nombre": "Bengalíes",
+            "Descripcion": "Los bengalíes es una civilización que aparece en Age of Empires II: Definitive Edition - Dynasties of India que se especializa en los elefantes y en lo naval.",
             "Especialidad": "Elefantes y Naval",
             "unidad": "Ratha",
             "maravilla": "Somapura Mahavihara",
@@ -25,6 +27,7 @@
         {
             "id": "3",
             "nombre": "Bereberes",
+            "Descripcion": "Los Bereberes son una civilización del norte de África introducida en Age of Empires II: The African Kingdoms. Tienen dos unidades únicas: el Camello Arquero y el Escaramuzador Zenete.",
             "Especialidad": "Camellos y barcos",
             "unidad": "Camello Arquero",
             "maravilla": "Torre Hasán",
@@ -36,6 +39,7 @@
         {
             "id": "4",
             "nombre": "Birmanos",
+            "Descripcion": "Los Birmanos es una civilización del sudeste asiático basada en el imperio pagano y el de Toungoo. Introducida en Age of Empires II: Rise of the Rajas como una civilización de monjes y elefantes.",
             "Especialidad": "Monjes y Elefantes",
             "unidad": "Arambai",
             "maravilla": "Pagoda de Shwezigon",
@@ -47,6 +51,7 @@
         {
             "id": "5",
             "nombre": "Bizantinos",
+            "Descripcion": "Los Bizantinos no tienen el mejor ejército ni los mejores barcos, pero sus edificios son los que más vida tienen y a que, llegado el momento de avanzar a la Edad Imperial, puedes hacerlo por un tercio menos de recursos.",
             "Especialidad": "Defensa",
             "unidad": "Catafracta",
             "maravilla": "Hagia Sophia",
@@ -58,6 +63,7 @@
         {
             "id": "6",
             "nombre": "Bohemios",
+            "Descripcion": "Los bohemios son una civilización de pólvora y monjes. Amenazados militar e ideológicamente por casi todos los bandos, los bohemios respondieron con innovaciones revolucionarias en ambas esferas.",
             "Especialidad": "Unidades de pólvora y Monjes",
             "unidad": ["Carro de guerra husita","Obús"],
             "maravilla": "Iglesia de Nuestra Señora ante Týn",
@@ -69,6 +75,7 @@
         {
             "id": "7",
             "nombre": "Borgoñones",
+            "Descripcion": "Las mejoras económicas cuestan un -40% de alimentos y están disponibles una Edad antes; las tecnologías de los establos son un 50% más baratas; las unidades de pólvora ganan +25% de ataque.",
             "Especialidad": "Caballería",
             "unidad": ["Coustillier", "Milicia Flamenca"],
             "maravilla": "Ayuntamiento de Bruselas",
@@ -80,6 +87,7 @@
         {
             "id": "8",
             "nombre": "Britanos",
+            "Descripcion": "Se trata de una civilización del Oeste de Europa, que representa a los británicos durante la Edad Media. No carecen de muchas unidades cruciales, por lo tanto, pueden emplear la mayoría de las tácticas militares.",
             "Especialidad": "Arqueros",
             "unidad": "Arquero de tiro largo",
             "maravilla": "Catedral de Chichester",
@@ -91,6 +99,7 @@
         {
             "id": "9",
             "nombre": "Búlgaros",
+            "Descripcion": "La línea de milicia se mejora gratis. Los centros urbanos solo cuestan -50% piedra. Tecnologías de Herrería y Taller de Maquinaria de Asedio cuestan 50% menos alimento.",
             "Especialidad": "Infantería",
             "unidad": "Konnik",
             "maravilla": "Iglesia Redonda",
@@ -102,6 +111,7 @@
         {
             "id": "10",
             "nombre": "Celtas",
+            "Descripcion": "Los celtas son un pueblo con características muy marcadas dentro del juego. Trabajan rápido, se mueven rápido y atacan rápido. Todo lo hacen a gran velocidad, y por eso pueden ser totalmente demoledores en partidas que quieres finiquitar lo antes posible.",
             "Especialidad": " Infantería y armas de asedio",
             "unidad": "Invasor de pastos",
             "maravilla": "Carraig Phadraig",
@@ -119,7 +129,7 @@
         },
         {
             "id": "1",
-            "correo": "20200737@uthh.edu.mx",
+            "correo": "20200753@uthh.edu.mx",
             "contrasena": "987654"
         }
     ]
