@@ -131,18 +131,6 @@
             "expancion": "The Age of Kings",
             "age": "2006",
             "disponible": "Age of Empires II"
-        },
-        {
-            "id": "12",
-            "nombre": "Chinos",
-            "especialidad": "Arqueros",
-            "unidad": "Chu ko nu",
-            "maravilla": "Templo del Cielo",
-            "bonificaciones_de_equipo": "Las Granjas comienzan con +10% alimento.",
-            "imagen": "https://firebasestorage.googleapis.com/v0/b/your-room-9e781.appspot.com/o/civilizaciones%2FChinos.png?alt=media&token=c889e418-ef92-47c7-8fce-9f329c0d2e24",
-            "expancion": "The Conquerors",
-            "age": "2001",
-            "disponible": "Age of Empires II"
         }
     ]
 }
