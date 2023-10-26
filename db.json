@@ -143,30 +143,6 @@
             "expancion": "The Conquerors",
             "age": "2001",
             "disponible": "Age of Empires II"
-        },
-        {
-            "id": "13",
-            "nombre": "Coreanos",
-            "especialidad": "Defensiva y naval",
-            "unidad": "Carreta de guerra y Barco Tortuga",
-            "maravilla": "Hwangnyongsa",
-            "bonificaciones_de_equipo": "La línea de Mangana tiene el alcance mínimo reducido a 1.",
-            "imagen": "https://firebasestorage.googleapis.com/v0/b/your-room-9e781.appspot.com/o/civilizaciones%2FCoreanos.png?alt=media&token=9768d658-c174-4a63-aaff-532f3195ad5e",
-            "expancion": "The Age of Kings",
-            "age": "2007",
-            "disponible": "Age of Empires III"
-        },
-        {
-            "id": "14",
-            "nombre": "Cumanos",
-            "especialidad": "Caballería",
-            "unidad": "Kipchak",
-            "maravilla": "Sarkel",
-            "bonificaciones_de_equipo": "Las Empalizadas tienen +33% de puntos de resistencia.",
-            "imagen": "https://firebasestorage.googleapis.com/v0/b/your-room-9e781.appspot.com/o/civilizaciones%2FCumanos.png?alt=media&token=418801c7-6f8d-4de4-883f-191655657cc2",
-            "expancion": "The Conquerors",
-            "age": "2001",
-            "disponible": "Age of Empires II"
         }
     ]
 }
