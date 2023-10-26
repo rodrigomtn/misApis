@@ -1,7 +1,7 @@
 {
     "civilizaciones" : [
         {
-            "id": "1",
+            "id": 1,
             "nombre": "Armenios",
             "especialidad": " Infantería y Naval",
             "unidad": "Arquero compuesto y Sacerdote Guerrero.",
@@ -13,7 +13,7 @@
             "disponible": "Age of Empires III"
         },
         {
-            "id": "2",
+            "id": 2,
             "nombre": "Aztecas",
             "especialidad": "Infantería y monjes",
             "unidad": "Guerrero Jaguar",
@@ -25,7 +25,7 @@
             "disponible": "Age of Empires II"
         },
         {
-            "id": "3",
+            "id": 3,
             "nombre": "Bengalíes",
             "especialidad": "Elefantes y Naval",
             "unidad": "Ratha",
@@ -37,7 +37,7 @@
             "disponible": "Age of Empires III"
         },
         {
-            "id": "4",
+            "id": 4,
             "nombre": "Bereberes",
             "especialidad": "Camellos y barcos",
             "unidad": "Camello Arquero",
@@ -49,7 +49,7 @@
             "disponible": "Age of Empires II"
         },
         {
-            "id": "5",
+            "id": 5,
             "nombre": "Birmanos",
             "especialidad": "Monjes y Elefantes",
             "unidad": "Arambai",
@@ -61,7 +61,7 @@
             "disponible": "Age of Empires II"
         },
         {
-            "id": "6",
+            "id": 6,
             "nombre": "Bizantinos",
             "especialidad": "Defensa",
             "unidad": "Catafracta",
@@ -73,7 +73,7 @@
             "disponible": "Age of Empires II"
         },
         {
-            "id": "7",
+            "id": 7,
             "nombre": "Bohemios",
             "especialidad": "Unidades de pólvora y Monjes",
             "unidad": ["Carro de guerra husita","Obús"],
@@ -85,7 +85,7 @@
             "disponible": "Age of Empires III"
         },
         {
-            "id": "8",
+            "id": 8,
             "nombre": "Borgoñones",
             "especialidad": "Caballería",
             "unidad": ["Coustillier", "Milicia Flamenca"],
@@ -97,7 +97,7 @@
             "disponible": "Age of Empires III"
         },
         {
-            "id": "9",
+            "id": 9,
             "nombre": "Britanos",
             "especialidad": "Arqueros",
             "unidad": "Arquero de tiro largo",
@@ -109,7 +109,7 @@
             "disponible": "Age of Empires II"
         },
         {
-            "id": "10",
+            "id": 10,
             "nombre": "Búlgaros",
             "especialidad": "Infantería",
             "unidad": "Konnik",
@@ -133,7 +133,7 @@
             "disponible": "Age of Empires II"
         },
         {
-            "id": "12",
+            "id": 12,
             "nombre": "Chinos",
             "especialidad": "Arqueros",
             "unidad": "Chu ko nu",
@@ -157,7 +157,7 @@
             "disponible": "Age of Empires III"
         },
         {
-            "id": "14",
+            "id": 14,
             "nombre": "Cumanos",
             "especialidad": "Caballería",
             "unidad": "Kipchak",
@@ -169,7 +169,7 @@
             "disponible": "Age of Empires II"
         },
         {
-            "id": "15",
+            "id": 15,
             "nombre": "Dravídicos",
             "especialidad": "Naval e Infantería",
             "unidad": "Espadachín urumi y Thirisadai",
@@ -193,7 +193,7 @@
             "disponible": "Age of Empires II"
         },
         {
-            "id": "17",
+            "id": 17,
             "nombre": "Españoles",
             "especialidad": "Monjes y pólvora",
             "unidad": "Conquistador y Misionero.",
@@ -205,7 +205,7 @@
             "disponible": "Age of Empires II"
         },
         {
-            "id": "18",
+            "id": 18,
             "nombre": "Etíopes",
             "especialidad": "Arqueros y armas de asedio",
             "unidad": "Shotelai",
@@ -217,7 +217,7 @@
             "disponible": "Age of Empires II"
         },
         {
-            "id": "19",
+            "id": 19,
             "nombre": "Francos",
             "especialidad": "Caballería",
             "unidad": "Lanzador de hachas",
@@ -229,7 +229,7 @@
             "disponible": "Age of Empires II"
         },
         {
-            "id": "20",
+            "id": 20,
             "nombre": "Georgianos",
             "especialidad": "Caballería y Defensiva",
             "unidad": "Monaspa",
@@ -241,7 +241,7 @@
             "disponible": "Age of Empires II"
         },
         {
-            "id": "21",
+            "id": 21,
             "nombre": "Godos",
             "especialidad": "Infantería",
             "unidad": "Huscarle",
@@ -253,7 +253,7 @@
             "disponible": "Age of Empires III"
         },
         {
-            "id": "22",
+            "id": 22,
             "nombre": "Gurjaras",
             "especialidad": "Infantería",
             "unidad": "Lanzador Chakram, Jinete Shrivamsha y Explorador a camello.",
