@@ -119,18 +119,6 @@
             "expancion": "Lords of the West",
             "age": "2007",
             "disponible": "Age of Empires III"
-        },
-        {
-            "id": "11",
-            "nombre": "Celtas",
-            "especialidad": "Infantería y armas de asedio",
-            "unidad": "Invasor de pastos",
-            "maravilla": "Carraig Phadraig",
-            "bonificaciones_de_equipo": "Taller de maquinaria de asedio trabaja 20% más rápido.",
-            "imagen": "https://firebasestorage.googleapis.com/v0/b/your-room-9e781.appspot.com/o/civilizaciones%2FCeltas.png?alt=media&token=927ea8e6-3a3e-41b4-a8c4-c101611d00a1",
-            "expancion": "The Age of Kings",
-            "age": "2006",
-            "disponible": "Age of Empires II"
         }
     ]
 }
