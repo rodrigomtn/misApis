@@ -191,30 +191,6 @@
             "expancion": "Rise of The Rajas",
             "age": "2003",
             "disponible": "Age of Empires II"
-        },
-        {
-            "id": "17",
-            "nombre": "Españoles",
-            "especialidad": "Monjes y pólvora",
-            "unidad": "Conquistador y Misionero.",
-            "maravilla": "Torre del Oro.",
-            "bonificaciones_de_equipo": "Carretas y urcas generan +25% oro.",
-            "imagen": "Espa%C3%B1oles.png?alt=media&token=b9319711-2c6f-4d7d-8afe-8195b86c7146",
-            "expancion": "Rise of The Rajas",
-            "age": "2003",
-            "disponible": "Age of Empires II"
-        },
-        {
-            "id": "18",
-            "nombre": "Etíopes",
-            "especialidad": "Arqueros y armas de asedio",
-            "unidad": "Shotelai",
-            "maravilla": "Biet Medhani Alem",
-            "bonificaciones_de_equipo": "Puestos avanzados tienen +3 LDV y no cuestan piedra.",
-            "imagen": "Etiopes.png?alt=media&token=464f7b43-8a40-43b4-9e9e-42096275c157",
-            "expancion": "Rise of The Rajas",
-            "age": "2003",
-            "disponible": "Age of Empires II"
         }
     ]
 }
