@@ -179,66 +179,6 @@
             "expancion": "The Conquerors",
             "age": "2001",
             "disponible": "Age of Empires II"
-        },
-        {
-            "id": "16",
-            "nombre": "Eslavos",
-            "especialidad": "Infantería y armas de asedio",
-            "unidad": "Boyardo.",
-            "maravilla": "Iglesia de la Transfiguración",
-            "bonificaciones_de_equipo": "Cuarteles, Establos, Galerías de tiro con arco y Talleres de maquinaria de asedio proporcionan un +5 de población.",
-            "imagen": "https://firebasestorage.googleapis.com/v0/b/your-room-9e781.appspot.com/o/civilizaciones%2FEslavos.png?alt=media&token=86c3169c-1f74-4d6e-af93-f2f215131305",
-            "expancion": "Rise of The Rajas",
-            "age": "2003",
-            "disponible": "Age of Empires II"
-        },
-        {
-            "id": "17",
-            "nombre": "Españoles",
-            "especialidad": "Monjes y pólvora",
-            "unidad": "Conquistador y Misionero.",
-            "maravilla": "Torre del Oro.",
-            "bonificaciones_de_equipo": "Carretas y urcas generan +25% oro.",
-            "imagen": "https://firebasestorage.googleapis.com/v0/b/your-room-9e781.appspot.com/o/civilizaciones%2FEspa%C3%B1oles.png?alt=media&token=b9319711-2c6f-4d7d-8afe-8195b86c7146",
-            "expancion": "Rise of The Rajas",
-            "age": "2003",
-            "disponible": "Age of Empires II"
-        },
-        {
-            "id": "18",
-            "nombre": "Etíopes",
-            "especialidad": "Arqueros y armas de asedio",
-            "unidad": "Shotelai",
-            "maravilla": "Biet Medhani Alem",
-            "bonificaciones_de_equipo": "Puestos avanzados tienen +3 LDV y no cuestan piedra.",
-            "imagen": "https://firebasestorage.googleapis.com/v0/b/your-room-9e781.appspot.com/o/civilizaciones%2FEtiopes.png?alt=media&token=464f7b43-8a40-43b4-9e9e-42096275c157",
-            "expancion": "Rise of The Rajas",
-            "age": "2003",
-            "disponible": "Age of Empires II"
-        },
-        {
-            "id": "19",
-            "nombre": "Francos",
-            "especialidad": "Caballería",
-            "unidad": "Lanzador de hachas",
-            "maravilla": "Catedral de San Vito",
-            "bonificaciones_de_equipo": "Los Jinetes tienen +2 de Línea de visión.",
-            "imagen": "https://firebasestorage.googleapis.com/v0/b/your-room-9e781.appspot.com/o/civilizaciones%2FFrancos.png?alt=media&token=e3983a02-c324-477e-9272-1c0b1b8c901a",
-            "expancion": "The African Kingdoms",
-            "age": "2010",
-            "disponible": "Age of Empires II"
-        },
-        {
-            "id": "20",
-            "nombre": "Georgianos",
-            "especialidad": "Caballería y Defensiva",
-            "unidad": "Monaspa",
-            "maravilla": "Catedral de Svetitsjoveli",
-            "bonificaciones_de_equipo": "Reparar edificios cuesta -50% de recursos.",
-            "imagen": "https://firebasestorage.googleapis.com/v0/b/your-room-9e781.appspot.com/o/civilizaciones%2FGeorgianos.png?alt=media&token=2c4260c1-840d-440e-81b4-a44ce2a45844",
-            "expancion": "The African Kingdoms",
-            "age": "2010",
-            "disponible": "Age of Empires II"
         }
     ]
 }
