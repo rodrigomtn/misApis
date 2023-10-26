@@ -215,54 +215,6 @@
             "expancion": "Rise of The Rajas",
             "age": "2003",
             "disponible": "Age of Empires II"
-        },
-        {
-            "id": 19,
-            "nombre": "Francos",
-            "especialidad": "Caballería",
-            "unidad": "Lanzador de hachas",
-            "maravilla": "Catedral de San Vito",
-            "bonificaciones_de_equipo": "Los Jinetes tienen +2 de Línea de visión.",
-            "imagen": "https://firebasestorage.googleapis.com/v0/b/your-room-9e781.appspot.com/o/civilizaciones%2FFrancos.png?alt=media&token=e3983a02-c324-477e-9272-1c0b1b8c901a",
-            "expancion": "The African Kingdoms",
-            "age": "2010",
-            "disponible": "Age of Empires II"
-        },
-        {
-            "id": 20,
-            "nombre": "Georgianos",
-            "especialidad": "Caballería y Defensiva",
-            "unidad": "Monaspa",
-            "maravilla": "Catedral de Svetitsjoveli",
-            "bonificaciones_de_equipo": "Reparar edificios cuesta -50% de recursos.",
-            "imagen": "https://firebasestorage.googleapis.com/v0/b/your-room-9e781.appspot.com/o/civilizaciones%2FGeorgianos.png?alt=media&token=2c4260c1-840d-440e-81b4-a44ce2a45844",
-            "expancion": "The African Kingdoms",
-            "age": "2010",
-            "disponible": "Age of Empires II"
-        },
-        {
-            "id": 21,
-            "nombre": "Godos",
-            "especialidad": "Infantería",
-            "unidad": "Huscarle",
-            "maravilla": "Mausoleo de Teodorico",
-            "bonificaciones_de_equipo": "Los Cuarteles trabajan un 20% más rápido.",
-            "imagen": "https://firebasestorage.googleapis.com/v0/b/your-room-9e781.appspot.com/o/civilizaciones%2FGodos.png?alt=media&token=791c1b54-2b22-4ef8-9af9-3f43a495f633",
-            "expancion": "Dawn of the Dukes",
-            "age": "2014",
-            "disponible": "Age of Empires III"
-        },
-        {
-            "id": 22,
-            "nombre": "Gurjaras",
-            "especialidad": "Infantería",
-            "unidad": "Lanzador Chakram, Jinete Shrivamsha y Explorador a camello.",
-            "maravilla": "Somnath",
-            "bonificaciones_de_equipo": "Unidades a camello y Unidades en elefante se crean un 25% más rápido.",
-            "imagen": "https://firebasestorage.googleapis.com/v0/b/your-room-9e781.appspot.com/o/civilizaciones%2FGurjaras.png?alt=media&token=ed4adde4-8702-4477-90dc-03b7b7e68d48",
-            "expancion": "Dawn of the Dukes",
-            "age": "2014",
-            "disponible": "Age of Empires III"
         }
     ]
 }
