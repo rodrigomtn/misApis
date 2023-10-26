@@ -239,30 +239,6 @@
             "expancion": "The African Kingdoms",
             "age": "2010",
             "disponible": "Age of Empires II"
-        },
-        {
-            "id": "21",
-            "nombre": "Godos",
-            "especialidad": "Infantería",
-            "unidad": "Huscarle",
-            "maravilla": "Mausoleo de Teodorico",
-            "bonificaciones_de_equipo": "Los Cuarteles trabajan un 20% más rápido.",
-            "imagen": "Godos.png?alt=media&token=791c1b54-2b22-4ef8-9af9-3f43a495f633",
-            "expancion": "Dawn of the Dukes",
-            "age": "2014",
-            "disponible": "Age of Empires III"
-        },
-        {
-            "id": "22",
-            "nombre": "Gurjaras",
-            "especialidad": "Infantería",
-            "unidad": "Lanzador Chakram, Jinete Shrivamsha y Explorador a camello.",
-            "maravilla": "Somnath",
-            "bonificaciones_de_equipo": "Unidades a camello y Unidades en elefante se crean un 25% más rápido.",
-            "imagen": "Gurjaras.png?alt=media&token=ed4adde4-8702-4477-90dc-03b7b7e68d48",
-            "expancion": "Dawn of the Dukes",
-            "age": "2014",
-            "disponible": "Age of Empires III"
         }
     ]
 }
