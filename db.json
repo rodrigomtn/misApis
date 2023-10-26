@@ -167,18 +167,6 @@
             "expancion": "The Conquerors",
             "age": "2001",
             "disponible": "Age of Empires II"
-        },
-        {
-            "id": "15",
-            "nombre": "Dravídicos",
-            "especialidad": "Naval e Infantería",
-            "unidad": "Espadachín urumi y Thirisadai",
-            "maravilla": "Templo Brihadisvara",
-            "bonificaciones_de_equipo": "Muelles proveen +5 de población.",
-            "imagen": "https://firebasestorage.googleapis.com/v0/b/your-room-9e781.appspot.com/o/civilizaciones%2FDravidicos.png?alt=media&token=a40633d0-0e23-461b-87b1-3a1146b5364e",
-            "expancion": "The Conquerors",
-            "age": "2001",
-            "disponible": "Age of Empires II"
         }
     ]
 }
